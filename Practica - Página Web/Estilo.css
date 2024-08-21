@@ -1,0 +1,34 @@
+﻿body{
+	/*margin-left:50px;
+	margin-right:500px;*/
+	text-align: justify;
+	width: auto;
+}
+p{
+	text-align:justify;
+	font-family:Arial, Time new roman;
+	color:black
+	
+}
+h1,h2,h3{
+	font-family:verdana;
+	color:blue;
+	
+}
+.texto{
+	display: table-cell;
+	text-align: left;
+	padding-right: 10px;
+}
+.controles{
+	display: table-cell;
+	text-align: right;
+	
+}
+a:link{	text-decoration:none;color:blue;}
+	
+a:visited{text-decoration:none; color:green;}
+
+a:hover{text-decoration:underline;color:black;}
+
+	
